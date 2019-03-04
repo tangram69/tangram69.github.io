@@ -1,24 +1,29 @@
-********************************[Echo-Harim Lee's Second Homepage ]***************************************
 
-construction: About, Profile, Portfolio(covering Hongik University Hackathon), Contact
+********************************[Echo-Harim Lee's Second Homepage]***************************************
 
-purpose: To introduce myself. To organize and update my portforlio. To show my profile. To submit homework.
+Contents: About, Profile, Portfolio(covering Hongik University Hackathon Presentation), Contact
+
+Purpose: To introduce myself. 
+         To show my lastest profile.
+         To organize and update my portforlio. 
+         
+Site name: Echo-Harim Lee's Second Homepage
+           (I'd like to give people echo that they can do somthing they want to do.)
 
 -----------------------------------------------------------------------------------------------------------
-[description]
+[Description]
 
-what? Introduction Homepage
+What? Introduction Homepage
 
-why? Introductiion
+Why? Introductiion
 
-who? For the curious people
+Who? For anyone who is curious about me.
 
 How? Using Bootstrap templete, Creating my own contents.
 
-when? Anytime
+When? Anytime
 
-where? Webpage
-
+Where? Webpage
 
 
 
